@@ -24,8 +24,9 @@ end
 def genre
   @genre
 end
-
+#Page turn method coming up
+def turn_page
+  puts "Flipping the page...wow, you read fast!"
 end
-
-
+end
 #learn spec/01_book_spec.rb
