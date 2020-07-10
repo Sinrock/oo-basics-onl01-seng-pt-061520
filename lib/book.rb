@@ -11,3 +11,4 @@ def turn_page
 end
 end
 #learn spec/01_book_spec.rb
+#learn spec/02_shoe_spec.rb
